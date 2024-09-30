@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Momo/Desktop/Sheriff-Shenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Assets/UI/PauseMenu.uasset",
+				"C:/Users/Momo/Desktop/Sheriff-Shenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Assets/Blueprints/Sheriff.uasset",
+				"C:/Users/Momo/Desktop/Sheriff-Shenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Assets/Maps/BaseMap.umap",
 				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Polygon-WildWest/Maps/Level_01_Day.umap",
 				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Animations/Player/Run_Back.uasset",
