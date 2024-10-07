@@ -710,7 +710,7 @@ Engine:/Script/ChaosVD.ChaosVDEditorSettings:SimOnlyMeshesMaterial:0=/ChaosVD/Ma
 Engine:/Script/ChaosVD.ChaosVDEditorSettings:InstancedMeshesMaterial:0=/ChaosVD/Materials/ChaosVDInstanced.ChaosVDInstanced
 Engine:/Script/ChaosVD.ChaosVDEditorSettings:InstancedMeshesQueryOnlyMaterial:0=/ChaosVD/Materials/ChaosVDInstancedQueryOnly.ChaosVDInstancedQueryOnly
 Engine:/Script/ChaosVD.ChaosVDEditorSettings:SkySphereActorClass:0=/ChaosVD/BP_CVD_SkySphere.BP_CVD_SkySphere_C
-Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="C/Users/Momo/Desktop/SherShenRepo3/Sheriff-sShenanigans/SherrifsShenanigans/GameBuilds")
+Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="C/Users/Momo/Desktop/SherShenRepo3/Sheriff-sShenanigans/SherrifsShenanigans/GameBuilds/Alpha")
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=(("Windows", PPBC_Shipping))
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:LaunchOnTarget:0=
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))

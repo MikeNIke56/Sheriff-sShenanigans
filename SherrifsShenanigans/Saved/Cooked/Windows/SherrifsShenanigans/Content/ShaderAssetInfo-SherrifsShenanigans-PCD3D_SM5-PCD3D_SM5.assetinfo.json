@@ -4,7 +4,14 @@
 		{
 			"ShaderMapHash": "8B60AF00137B6CA88FACD4508CFC3E55F2189A88",
 			"Assets": [
-				"/Game/Dodge_and_Evade_Anims/Demo/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
+				"/Game/Dodge_and_Evade_Anims/Demo/Mannequin/Character/Materials/M_UE4Man_ChestLogo",
+				"/Game/HatPack/Demo/ThirdPersonCharacter/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "D4C7BB00B60BC7092ABE56F4B048B582F23BCFA5",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Explosion_i"
 			]
 		},
 		{
@@ -21,6 +28,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E7869A0206DB6797DAB3F16C22A2A69A6AE377B3",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glow_D"
+			]
+		},
+		{
 			"ShaderMapHash": "C643DE0282E14D66A4C6E32A7FBE9288ECDF9AB5",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
@@ -33,9 +46,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AE5AED03FB8CF4DA682C3DAEF8BDB56CC9DEB705",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Butterfly"
+			]
+		},
+		{
 			"ShaderMapHash": "D7686C048DE409EBA2A703737E06E98C786DD4DC",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "0AFFF904431185C511964F56FC2760ED911041EC",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_WaterDrop_B"
+			]
+		},
+		{
+			"ShaderMapHash": "82D6790591B6417BC0C5E08657CD9985A7339210",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glow_A"
 			]
 		},
 		{
@@ -59,6 +90,7 @@
 		{
 			"ShaderMapHash": "4322100B63CBC0574CCF32609B111DF7B5CF300C",
 			"Assets": [
+				"/Engine/TemplateResources/M_Template_Master",
 				"/Game/FPWeapon/Materials/BaseMaterial"
 			]
 		},
@@ -69,9 +101,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "36158C0E169DCA3A889BB9B5A1FE22AF4B243E91",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_WaterDrop_A"
+			]
+		},
+		{
+			"ShaderMapHash": "3B7E3B0F82BBA33F61A4984A30A34004DC68FDB7",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Snow"
+			]
+		},
+		{
 			"ShaderMapHash": "6397B80F94AC21BC8A2C9FEE33E10A93CC4B0587",
 			"Assets": [
 				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "A9A8F210FB92058EFB51CD6DA32399A0144C70A7",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Basic_Shape"
 			]
 		},
 		{
@@ -93,6 +143,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "549B67116B1C9347C0B6E0CF993E32C8C46638CF",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/Weapons/Materials/M_WeaponMaster_01"
+			]
+		},
+		{
+			"ShaderMapHash": "649AEE11E456AA26FC24DE5AF1339E4AF51D694C",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_Woodchips_8x1_01"
+			]
+		},
+		{
 			"ShaderMapHash": "12B0E812974C179B3996C2D7256FF077F5CA2E4A",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
@@ -102,6 +164,21 @@
 			"ShaderMapHash": "181CEE124226B7BC3BC6982CF05C1192F10A212C",
 			"Assets": [
 				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "71EE221383E541D5DBD3F787E7942882841B729A",
+			"Assets": [
+				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Dragon",
+				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Painted1",
+				"/Game/MegaMaskPack/Materials/Ja_Mask/M_JaMask_Golden",
+				"/Game/MegaMaskPack/Materials/Ja_Mask/M_JaMask_Painted2"
+			]
+		},
+		{
+			"ShaderMapHash": "D671531373CE50DB7CDCF3ACACF5A5CB39710656",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_GlowSphere_01"
 			]
 		},
 		{
@@ -120,6 +197,12 @@
 			"ShaderMapHash": "973478181926EC4EBAA040D01D2C6755A5089B76",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "5AF9EF18BF6C447F9A2B392E7BB8573C4F6EFEC3",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_RockMesh_01"
 			]
 		},
 		{
@@ -149,15 +232,48 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3D5E971C52B1E0143E3DE15F6FD189568750582E",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Derbis"
+			]
+		},
+		{
 			"ShaderMapHash": "8F7F521D148B2C74EDCE8FE65F5939CC31D1DAC1",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
 			]
 		},
 		{
+			"ShaderMapHash": "93295C1FD173AEFE8176CB5F4C0FF4F64FDC18E7",
+			"Assets": [
+				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_Black",
+				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_Brown",
+				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_Gray",
+				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_Orange",
+				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_White",
+				"/Game/MegaMaskPack/Materials/Clown_Mask/M_ClownMask_Painted1",
+				"/Game/MegaMaskPack/Materials/Clown_Mask/M_ClownMask_Painted2",
+				"/Game/MegaMaskPack/Materials/Clown_Mask/M_ClownMask_Painted3",
+				"/Game/MegaMaskPack/Materials/Clown_Mask/M_ClownMask_Painted4",
+				"/Game/MegaMaskPack/Materials/Clown_Mask/M_ClownMask_Painted5",
+				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Creepy",
+				"/Game/MegaMaskPack/Materials/O_Mask/M_OMask_Pumpkin",
+				"/Game/MegaMaskPack/Materials/Poly_Mask/M_PolyMask_Carbonfiber",
+				"/Game/MegaMaskPack/Materials/Tiki_Mask/M_TikiMask_Tribe",
+				"/Game/MegaMaskPack/Materials/Tiki_Mask/M_TikiMask_TribeCamo"
+			]
+		},
+		{
 			"ShaderMapHash": "88792E20E71D188E84A72EC99C1D9001DC4BCC68",
 			"Assets": [
 				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "D9392C2314BE0A0BA10B4A8E1D8824B07F7D3A17",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_AssaultRifle_MuzzleFlash_4x1",
+				"/Game/MilitaryWeapSilver/FX/Materials/M_Pistol_Streaks_01"
 			]
 		},
 		{
@@ -187,6 +303,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7F7F8C2558EC12A29C8B6666646F39D1A753B5F0",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Materials/DefaultTextMaterialTranslucentUnlit"
+			]
+		},
+		{
 			"ShaderMapHash": "B4FFA125D995CE349CF0DD60365F762BD59049C6",
 			"Assets": [
 				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
@@ -205,15 +327,45 @@
 			]
 		},
 		{
+			"ShaderMapHash": "97FA3F2F7818E1BE50FA3C57F2747A00F79D0416",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Slash"
+			]
+		},
+		{
+			"ShaderMapHash": "549869303BE53720D78FA35F5638438E0FF20E2D",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Lightning_small"
+			]
+		},
+		{
+			"ShaderMapHash": "4C35123196E805A1BCD6985AFF6982DEB9BF9F18",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Flies"
+			]
+		},
+		{
 			"ShaderMapHash": "53D9C83115F0B45E2D356863CDFE441144A25608",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
 			]
 		},
 		{
+			"ShaderMapHash": "F9D530325E9601C660ADB00DB7E5395DA30FD3F2",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_SmokeRibbon_01"
+			]
+		},
+		{
 			"ShaderMapHash": "BC34CA333E2A06EC4ED343674C56DB5301676F55",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D5132A37E7F1C66E07DD5486AE60E7D6469976C3",
+			"Assets": [
+				"/Game/MegaMaskPack/Demo/M_Manny_01"
 			]
 		},
 		{
@@ -235,6 +387,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FF256D394D8E522B96F977E85441568C72B8FCD6",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Leaves_A"
+			]
+		},
+		{
 			"ShaderMapHash": "55A97C3ACE263DD71525BE9C1F832466B11941CA",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
@@ -250,6 +408,12 @@
 			"ShaderMapHash": "75AED43B4349F4C47C16C47CE7101D96B24699C5",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "02AE893DF4AC2DFCBC1EB8EF89690DE44FFA873A",
+			"Assets": [
+				"/Game/MegaMaskPack/Materials/Poly_Mask/M_PolyMask_Bronze"
 			]
 		},
 		{
@@ -293,13 +457,20 @@
 			"Assets": [
 				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
 				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02",
-				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_02"
+				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_02",
+				"/Game/HatPack/Demo/ThirdPersonCharacter/Mannequins/Materials/Instances/Manny/MI_Manny_02"
 			]
 		},
 		{
 			"ShaderMapHash": "289DBC46AE555E47D810358F1AF1774A6D88F734",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Ground_Moss"
+			]
+		},
+		{
+			"ShaderMapHash": "0EB31E49FA5B400DC32EF7A11A51139C3864BFDA",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Blood_C"
 			]
 		},
 		{
@@ -336,6 +507,18 @@
 			"ShaderMapHash": "77B8784FB82C2490CF8CB53A54EBACDB14BD5ECA",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "6FB00D52A92954BC0DF3B14233A778E4B8A57A90",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "553D7452BF1665F646B990690D0A26779C7C62C1",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Spark_A"
 			]
 		},
 		{
@@ -387,6 +570,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8AB37456B294840C31B4671F35A65033B5B3B0A4",
+			"Assets": [
+				"/Game/HatPack/Demo/StaticMeshes/Floor/Materials/M_HatPack_Demo_Floor"
+			]
+		},
+		{
 			"ShaderMapHash": "F5025D57D9FBC069FAD6D9D3593B67C26AA70B7F",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Rock_Basalt"
@@ -405,6 +594,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "31CBA1589C93BF13E95311D0009F05C839CA037D",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_Shockwave_Refraction_01"
+			]
+		},
+		{
+			"ShaderMapHash": "FAC515594D4AD3B293D4A7440F2551F69AF2E874",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_Knife_RibbonTrail_01"
+			]
+		},
+		{
 			"ShaderMapHash": "086A295957F7269B159607ED14CE2C6840F1B9A9",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigGizmoMaterial"
@@ -413,7 +614,14 @@
 		{
 			"ShaderMapHash": "9AC6FB59B6265C1C3381C16B5A3B8B233E3DFEA6",
 			"Assets": [
-				"/Game/Dodge_and_Evade_Anims/Demo/Mannequin/Character/Materials/M_UE4Man_Body"
+				"/Game/Dodge_and_Evade_Anims/Demo/Mannequin/Character/Materials/M_UE4Man_Body",
+				"/Game/HatPack/Demo/ThirdPersonCharacter/Mannequin/Character/Materials/M_Male_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "1F7EFA5A6C71791DE056382AE972D47C167770B9",
+			"Assets": [
+				"/Game/HatPack/Assets/MasterMaterials/M_HatPack_TextureParent"
 			]
 		},
 		{
@@ -455,6 +663,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B7DF4F64C3991C195391CA552833E9C7ECE7DA95",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Impact_B"
+			]
+		},
+		{
 			"ShaderMapHash": "AB72E264D4760A57DFE7F3D412D35AADFB641637",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
@@ -467,9 +681,22 @@
 			]
 		},
 		{
+			"ShaderMapHash": "EC078266D958291079F3D359779450D7F6D651C3",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Rock_B",
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Wood"
+			]
+		},
+		{
 			"ShaderMapHash": "7754556757CDE3B6339979C9B23F6026BB72D09E",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "1DCED2673E63A690855B3E3B1BED24A9D9846D0B",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_Debris_Tileable_01"
 			]
 		},
 		{
@@ -482,6 +709,12 @@
 			"ShaderMapHash": "6495656F3B352926000AB0D25DB232E27240FE9F",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "182FC26F03EF265A98D5FF20CB817DB86675042F",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_WaterDrop"
 			]
 		},
 		{
@@ -506,6 +739,45 @@
 			"ShaderMapHash": "7D6C6F74326F415B3100B8CAE15E57B76D73C5C9",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "F3DB98766654362F673F17577308C504A586640E",
+			"Assets": [
+				"/Game/MegaMaskPack/Materials/DOTD_Mask/M_DOTDMask_Creepy",
+				"/Game/MegaMaskPack/Materials/DOTD_Mask/M_DOTDMask_Creepy2",
+				"/Game/MegaMaskPack/Materials/DOTD_Mask/M_DOTDMask_Hazard",
+				"/Game/MegaMaskPack/Materials/DOTD_Mask/M_DOTDMask_Painted1",
+				"/Game/MegaMaskPack/Materials/DOTD_Mask/M_DOTDMask_Painted2",
+				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Painted1",
+				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Painted2",
+				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Painted3",
+				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Wooden",
+				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Painted2",
+				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Painted3",
+				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Skull",
+				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Black",
+				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Black_Mustache",
+				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Old",
+				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Old_Mustache",
+				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Party",
+				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Party_Mustache",
+				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Santa",
+				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Santa_Mustache",
+				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Wood",
+				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Wood_Mustache",
+				"/Game/MegaMaskPack/Materials/Ja_Mask/M_JaMask_Hot",
+				"/Game/MegaMaskPack/Materials/Ja_Mask/M_JaMask_Painted1",
+				"/Game/MegaMaskPack/Materials/O_Mask/M_OMask_Mouth",
+				"/Game/MegaMaskPack/Materials/O_Mask/M_OMask_Oni",
+				"/Game/MegaMaskPack/Materials/O_Mask/M_OMask_Science",
+				"/Game/MegaMaskPack/Materials/O_Mask/M_OMask_XWhite",
+				"/Game/MegaMaskPack/Materials/Poly_Mask/M_PolyMask_Gold",
+				"/Game/MegaMaskPack/Materials/Poly_Mask/M_PolyMask_IDK",
+				"/Game/MegaMaskPack/Materials/Poly_Mask/M_PolyMask_Matte",
+				"/Game/MegaMaskPack/Materials/Tiki_Mask/M_TikiMask_BoneTribe",
+				"/Game/MegaMaskPack/Materials/Tiki_Mask/M_TikiMask_Ruined",
+				"/Game/MegaMaskPack/Materials/Tiki_Mask/M_TikiMask_SunGod"
 			]
 		},
 		{
@@ -575,6 +847,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "556DFC891DAEB86C000BB5B17FD05D0822B9A936",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_Puff_A"
+			]
+		},
+		{
 			"ShaderMapHash": "92FB628B1633AF538083C6CFC58E990F5897911D",
 			"Assets": [
 				"/Game/Dodge_and_Evade_Anims/Demo/Floors_and_Walls/Materials/m_CubeMaterial"
@@ -587,15 +865,34 @@
 			]
 		},
 		{
+			"ShaderMapHash": "83D6978EC7FA80808333E6E6D70016D874A942B0",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Fish_A"
+			]
+		},
+		{
 			"ShaderMapHash": "C4DDB28EBE9104F666DC9A0D98A7D4E4317B8065",
 			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Fire_C",
 				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "492A818FC49053E89C625E14FC3FB06CE2299761",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Mud"
 			]
 		},
 		{
 			"ShaderMapHash": "212FC190F1BAC93CD8A6C0FE94AA4E79FC8333AA",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0B02B591DF061E67DA5F919DB4C05900D5C8725C",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_Ground"
 			]
 		},
 		{
@@ -629,10 +926,41 @@
 			]
 		},
 		{
+			"ShaderMapHash": "45907393CA6B6B2C9A102D83C7A00FD14F997868",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_Pistol_MuzzleFlash_4x1_A",
+				"/Game/MilitaryWeapSilver/FX/Materials/M_RockSmall_01",
+				"/Game/MilitaryWeapSilver/FX/Materials/M_SparksImpact_2x2_01",
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Bubble",
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Bubble_B",
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Dandelion",
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Impact_A",
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Impact_C"
+			]
+		},
+		{
+			"ShaderMapHash": "9B45D9948DAC2AE7B38EF934DFC900CAA8F89984",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_Tracer_A"
+			]
+		},
+		{
+			"ShaderMapHash": "AEFA17950F088FA6A2B6BE8BB388810FD9EFCE52",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glow_B"
+			]
+		},
+		{
 			"ShaderMapHash": "2669DF959088980613D10154B132888C919862A7",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial",
 				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "FDA0FB95397E39D20B27235509A4760568F4F9E9",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Materials/M_DemoWall"
 			]
 		},
 		{
@@ -660,12 +988,32 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0FFE9D984E2D5DCF0FCFBD2799441F6E71416B9A",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_C"
+			]
+		},
+		{
+			"ShaderMapHash": "68B3359BAAA828268869B2CD024E6593C75CCE39",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glow_C"
+			]
+		},
+		{
 			"ShaderMapHash": "1C63369BA300C38A984C7AF15FDD9343A2D24FEB",
 			"Assets": [
 				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/Characters/Mannequins/Materials/M_Mannequin",
 				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01",
-				"/Game/FirstPersonArms/Character/Materials/M_Mannequin"
+				"/Game/FirstPersonArms/Character/Materials/M_Mannequin",
+				"/Game/HatPack/Demo/ThirdPersonCharacter/Mannequins/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/HatPack/Demo/ThirdPersonCharacter/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "EC2D699B14315399314D67BC574C41DF19B2B2B6",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_A"
 			]
 		},
 		{
@@ -675,9 +1023,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F087139CE724B19CB6BA8E677C596F6F2A253BEF",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_Ember_Speed_01"
+			]
+		},
+		{
 			"ShaderMapHash": "9458AC9C7F5D1A1558E19D4AD7161434E334F1A3",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "440DC39C02EF3DAB15B4B8E033A32E4942941140",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Explosion_G"
 			]
 		},
 		{
@@ -724,6 +1084,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "747C2CA94FF8AAA5B48CF91FF0FFDF2D3E564E37",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Explosion_B"
+			]
+		},
+		{
+			"ShaderMapHash": "A7A1FBA949FB4FC39247A528F721B113D8B09D2F",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_spark_C"
+			]
+		},
+		{
+			"ShaderMapHash": "B20016AA447DCD1A88B9223BB0DFD466F8E8FFDD",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Dirt_A"
+			]
+		},
+		{
 			"ShaderMapHash": "83BF2FAACE2A5A03DB2110BD8144EB4A00E5E623",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
@@ -733,6 +1111,12 @@
 			"ShaderMapHash": "F5EB0AABF79C5B18F0631CD496DC95081E066077",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
+			]
+		},
+		{
+			"ShaderMapHash": "98946DAF1B25F1335EB7A5E194B0FE6AFAA3E1F5",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_Explosion_8x8_A_01"
 			]
 		},
 		{
@@ -757,6 +1141,12 @@
 			"ShaderMapHash": "AFBF29B1E0C9B3B6341B8077BBF33DC0A048EB5D",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "D0067CB1A6BECC484996D8318E810D3BCD8F3708",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_Pistol_Smoke_2x2_A"
 			]
 		},
 		{
@@ -796,6 +1186,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A5BDE8BAAB8BE90A971ABACA9697C52A93847F48",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Explosion_D"
+			]
+		},
+		{
 			"ShaderMapHash": "1858E9BC8D9C2641E3E679924B4F6CE2365BC7F2",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
@@ -826,6 +1222,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "07FFB6C47B10C00226BB20DF127F709B077B6BF5",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_Wisp"
+			]
+		},
+		{
 			"ShaderMapHash": "AB1320C62A6A3DD15B627745E71D07794E6DD9FC",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
@@ -844,6 +1246,14 @@
 			]
 		},
 		{
+			"ShaderMapHash": "258AF8CA91491ECE5463CEF90E94E67729396200",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Dirt_B",
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glass",
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Paper"
+			]
+		},
+		{
 			"ShaderMapHash": "4A0733CB266EF86EC7C44D8A9F48B0CC7159D927",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Gold"
@@ -858,6 +1268,7 @@
 		{
 			"ShaderMapHash": "10B31FD0063A69F4BEE81117C4C2822EDFE3AF70",
 			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Heat_Distortion",
 				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
 			]
 		},
@@ -865,6 +1276,12 @@
 			"ShaderMapHash": "C94329D096948F3C385F9FFD9CFF914F272EC0F0",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "07AD6ED06954A8F73F760B34AC5CD7D79267EDE8",
+			"Assets": [
+				"/Game/MegaMaskPack/Materials/Ja_Mask/M_JaMask_Creepy"
 			]
 		},
 		{
@@ -952,9 +1369,22 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8C8CACE743F2CACDBEBFBDD378E01FCD5AC24A4A",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_Ground_B",
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_Ground_C"
+			]
+		},
+		{
 			"ShaderMapHash": "19AC4BE92ACCDE08A84ACFD069EDB1BCD66AF07E",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "AC7931EA317032840242AF9EDA1B00F8E4ECF15C",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_LightRay_01"
 			]
 		},
 		{
@@ -982,9 +1412,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A38505EE8D83D4A466A89222A6C682722A65C004",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Explosion_E"
+			]
+		},
+		{
 			"ShaderMapHash": "CB9420EF8BD2D6601541B8DED29E0F4AF7F34E19",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "E69547EF7094BF6C39EE997561AB9CF694BFAE1F",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Fire_B"
 			]
 		},
 		{
@@ -1012,9 +1454,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "EEBB0DF562205E33222C3B968B3DF48228DF3543",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_Smoke_8x8_B_01"
+			]
+		},
+		{
 			"ShaderMapHash": "41F8A9F6594F2E778BC329801D35DE7A83D3801C",
 			"Assets": [
 				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "BA898CF8F6E114A25E20946CEB37F8A8BF476F80",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Fire_Splat"
+			]
+		},
+		{
+			"ShaderMapHash": "E0B9C2F93752B479403F5CFE5D6C9C978FFF8CA4",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_SmokeSimple_01"
 			]
 		},
 		{
@@ -1033,6 +1493,14 @@
 			"ShaderMapHash": "314497FDA099E434D099D656FA0C6D1AD8B47691",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "D569D6FE7F89680A2EBD7022EDC59695D637623F",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Bubble_pop",
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Splat_A",
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Water_Splat"
 			]
 		},
 		{
