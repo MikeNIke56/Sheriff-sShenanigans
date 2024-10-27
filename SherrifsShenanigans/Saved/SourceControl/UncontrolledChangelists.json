@@ -14,7 +14,11 @@
 				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Assets/Blueprints/Abilities/Gun/RevolverAbilityPARENT.uasset",
 				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Assets/Blueprints/Abilities/Gun/MoreAmmo.uasset",
 				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Assets/Blueprints/Abilities/Player/HorseshoeStun.uasset",
-				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Assets/Blueprints/Horseshoe.uasset"
+				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Assets/Blueprints/Horseshoe.uasset",
+				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Animations/Player/Throw.uasset",
+				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Animations/Player/LocomotionAnimBP.uasset",
+				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Animations/Player/Throw_Montage.uasset",
+				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Animations/Player/FrisbeeThrow_UE.uasset"
 			]
 		}
 	]
