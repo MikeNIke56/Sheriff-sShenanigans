@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Momo/Desktop/SherShenRepo3/Sheriff-sShenanigans/SherrifsShenanigans/Content/Assets/Blueprints/Shopkeeper.uasset",
+				"C:/Users/Momo/Desktop/SherShenRepo3/Sheriff-sShenanigans/SherrifsShenanigans/Content/Assets/UI/CurrentBuffsMenu.uasset",
+				"C:/Users/Momo/Desktop/SherShenRepo3/Sheriff-sShenanigans/SherrifsShenanigans/Content/Assets/UI_Assets/Button_Status_Normalv1.uasset",
 				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Assets/Blueprints/MumblingMurphy.uasset",
 				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Assets/Blueprints/Revolver.uasset",
 				"D:/Unreal/SheriffsShenanigans/Sheriff-sShenanigans/SherrifsShenanigans/Content/Assets/Blueprints/Abilities/Gun/ReloadReducer.uasset",
