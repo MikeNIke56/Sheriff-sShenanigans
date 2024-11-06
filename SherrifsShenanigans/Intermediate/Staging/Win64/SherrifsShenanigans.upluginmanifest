@@ -169,67 +169,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Animation/ControlRig/ControlRig.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Control Rig",
-				"Description": "Framework for animation driven by user controls.",
-				"Category": "Animation",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "https://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"Modules": [
-					{
-						"Name": "ControlRig",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "ControlRigDeveloper",
-						"Type": "UncookedOnly",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "ControlRigEditor",
-						"Type": "Editor",
-						"LoadingPhase": "PostEngineInit"
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "RigVM",
-						"Enabled": true
-					},
-					{
-						"Name": "PythonScriptPlugin",
-						"Enabled": true,
-						"TargetAllowList": [
-							"Editor"
-						]
-					},
-					{
-						"Name": "LevelSequenceEditor",
-						"Enabled": true
-					},
-					{
-						"Name": "PropertyAccessEditor",
-						"Enabled": true
-					},
-					{
-						"Name": "SequencerScripting",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Animation/ControlRigModules/ControlRigModules.uplugin",
 			"Descriptor": 
 			{
@@ -299,6 +238,67 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Animation/ControlRig/ControlRig.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Control Rig",
+				"Description": "Framework for animation driven by user controls.",
+				"Category": "Animation",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"Modules": [
+					{
+						"Name": "ControlRig",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "ControlRigDeveloper",
+						"Type": "UncookedOnly",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "ControlRigEditor",
+						"Type": "Editor",
+						"LoadingPhase": "PostEngineInit"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "RigVM",
+						"Enabled": true
+					},
+					{
+						"Name": "PythonScriptPlugin",
+						"Enabled": true,
+						"TargetAllowList": [
+							"Editor"
+						]
+					},
+					{
+						"Name": "LevelSequenceEditor",
+						"Enabled": true
+					},
+					{
+						"Name": "PropertyAccessEditor",
+						"Enabled": true
+					},
+					{
+						"Name": "SequencerScripting",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Animation/IKRig/IKRig.uplugin",
 			"Descriptor": 
 			{
@@ -339,6 +339,63 @@
 					},
 					{
 						"Name": "FullBodyIK",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Bridge/Bridge.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 40,
+				"VersionName": "2024.0.1",
+				"FriendlyName": "Bridge",
+				"Description": "Megascans Link for Quixel Bridge.",
+				"Category": "Editor",
+				"CreatedBy": "Quixel",
+				"CreatedByURL": "https://www.quixel.se",
+				"DocsURL": "https://help.quixel.com/hc/en-us/sections/360005846137-Quixel-Bridge-for-Unreal-Engine-5",
+				"MarketplaceURL": "",
+				"SupportURL": "support@quixel.com",
+				"EngineVersion": "5.4.0",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"SupportedTargetPlatforms": [
+					"Win64",
+					"Mac",
+					"Linux"
+				],
+				"Modules": [
+					{
+						"Name": "Bridge",
+						"Type": "Editor",
+						"LoadingPhase": "PostDefault",
+						"PlatformAllowList": [
+							"Win64",
+							"Mac",
+							"Linux"
+						]
+					},
+					{
+						"Name": "MegascansPlugin",
+						"Type": "Editor",
+						"LoadingPhase": "PostDefault",
+						"PlatformAllowList": [
+							"Win64",
+							"Mac",
+							"Linux"
+						]
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "EditorScriptingUtilities",
+						"Enabled": true
+					},
+					{
+						"Name": "MetaHumanProjectUtilities",
 						"Enabled": true
 					}
 				]
@@ -706,6 +763,32 @@
 					{
 						"Name": "FacialAnimationEditor",
 						"Type": "Editor",
+						"LoadingPhase": "PreDefault"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Editor/GameplayTagsEditor/GameplayTagsEditor.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "GameplayTagsEditor",
+				"Description": "GameplayTagsEditor provides blueprint nodes and editor UI to enable the use of GameplayTags for tagging assets and objects",
+				"Category": "Editor",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "GameplayTagsEditor",
+						"Type": "UncookedOnly",
 						"LoadingPhase": "PreDefault"
 					}
 				]
@@ -1081,6 +1164,38 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Enterprise/VariantManagerContent/VariantManagerContent.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Variant Manager Content",
+				"Description": "Data classes and assets for the Variant Manager plugin",
+				"Category": "Editor",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "https://docs.unrealengine.com/en-US/WorkingWithContent/Importing/Datasmith/",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "VariantManagerContent",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit"
+					},
+					{
+						"Name": "VariantManagerContentEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Enterprise/VariantManager/VariantManager.uplugin",
 			"Descriptor": 
 			{
@@ -1114,33 +1229,37 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Enterprise/VariantManagerContent/VariantManagerContent.uplugin",
+			"File": "../../../Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/SkeletalMeshModelingTools.uplugin",
 			"Descriptor": 
 			{
 				"FileVersion": 3,
 				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Variant Manager Content",
-				"Description": "Data classes and assets for the Variant Manager plugin",
-				"Category": "Editor",
+				"VersionName": "0.1",
+				"FriendlyName": "Skeletal Mesh Editing Tools",
+				"Description": "Create skeletons, paint skin weights and edit skeletal meshes.",
+				"Category": "Animation",
 				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "https://epicgames.com",
-				"DocsURL": "https://docs.unrealengine.com/en-US/WorkingWithContent/Importing/Datasmith/",
+				"CreatedByURL": "https://epicgames.com/",
+				"DocsURL": "",
 				"MarketplaceURL": "",
 				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
+				"EnabledByDefault": false,
+				"CanContainContent": true,
 				"IsBetaVersion": true,
 				"Modules": [
 					{
-						"Name": "VariantManagerContent",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit"
-					},
-					{
-						"Name": "VariantManagerContentEditor",
+						"Name": "SkeletalMeshModelingTools",
 						"Type": "Editor",
 						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "ModelingToolsEditorMode",
+						"Enabled": true,
+						"TargetAllowList": [
+							"Editor"
+						]
 					}
 				]
 			}
@@ -2024,6 +2143,47 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/FX/NiagaraSimCaching/NiagaraSimCaching.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "NiagaraSimCaching",
+				"Description": "Adds support for recording and playing back Niagara simulations in sequencer via take recorder",
+				"Category": "FX",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "https://dev.epicgames.com/community/learning/tutorials/Rk9v/unreal-engine-niagara-simulation-caching-in-sequencer",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"Modules": [
+					{
+						"Name": "NiagaraSimCaching",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "NiagaraSimCachingEditor",
+						"Type": "Editor",
+						"LoadingPhase": "PreDefault"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "Takes",
+						"Enabled": true
+					},
+					{
+						"Name": "Niagara",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/FX/Niagara/Niagara.uplugin",
 			"Descriptor": 
 			{
@@ -2085,47 +2245,6 @@
 				"Plugins": [
 					{
 						"Name": "PythonScriptPlugin",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/FX/NiagaraSimCaching/NiagaraSimCaching.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "NiagaraSimCaching",
-				"Description": "Adds support for recording and playing back Niagara simulations in sequencer via take recorder",
-				"Category": "FX",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "https://epicgames.com",
-				"DocsURL": "https://dev.epicgames.com/community/learning/tutorials/Rk9v/unreal-engine-niagara-simulation-caching-in-sequencer",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"Modules": [
-					{
-						"Name": "NiagaraSimCaching",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "NiagaraSimCachingEditor",
-						"Type": "Editor",
-						"LoadingPhase": "PreDefault"
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "Takes",
-						"Enabled": true
-					},
-					{
-						"Name": "Niagara",
 						"Enabled": true
 					}
 				]
@@ -3044,45 +3163,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Online Subsystem",
-				"Description": "Shared code for interacting online subsystem implementations.",
-				"Category": "Online Platform",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "https://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "OnlineSubsystem",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit"
-					}
-				],
-				"LocalizationTargets": [
-					{
-						"Name": "OnlineSubsystem",
-						"LoadingPolicy": "Always",
-						"ConfigGenerationPolicy": "Never"
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "OnlineBase",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin",
 			"Descriptor": 
 			{
@@ -3161,6 +3241,45 @@
 					},
 					{
 						"Name": "OnlineServices",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Online Subsystem",
+				"Description": "Shared code for interacting online subsystem implementations.",
+				"Category": "Online Platform",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "OnlineSubsystem",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit"
+					}
+				],
+				"LocalizationTargets": [
+					{
+						"Name": "OnlineSubsystem",
+						"LoadingPolicy": "Always",
+						"ConfigGenerationPolicy": "Never"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "OnlineBase",
 						"Enabled": true
 					}
 				]
@@ -3581,6 +3700,44 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Runtime/DataRegistry/DataRegistry.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "0.1",
+				"FriendlyName": "Data Registry",
+				"Description": "Adds Data Registry system that can be used as a generic interface for acquiring structure data from multiple sources at runtime",
+				"Category": "Gameplay",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "DataRegistry",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "DataRegistryEditor",
+						"Type": "UncookedOnly",
+						"LoadingPhase": "PreDefault"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "GameplayTagsEditor",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin",
 			"Descriptor": 
 			{
@@ -3602,6 +3759,51 @@
 						"Name": "ExampleDeviceProfileSelector",
 						"Type": "RuntimeNoCommandlet",
 						"LoadingPhase": "PostConfigInit"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/GameplayAbilities/GameplayAbilities.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Gameplay Abilities",
+				"Description": "Adds GameplayEffect and GameplayAbility classes to handle complicated gameplay interactions.",
+				"Category": "Gameplay",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "GameplayAbilities",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "GameplayAbilitiesEditor",
+						"Type": "UncookedOnly",
+						"LoadingPhase": "PreDefault"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "GameplayTagsEditor",
+						"Enabled": true
+					},
+					{
+						"Name": "Niagara",
+						"Enabled": true
+					},
+					{
+						"Name": "DataRegistry",
+						"Enabled": true
 					}
 				]
 			}
@@ -4302,44 +4504,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Runtime/Windows/XInputDevice/XInputDevice.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "XInput Device",
-				"Description": "XInput is a Game Controller API for Windows.",
-				"Category": "Input Devices",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "https://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"SupportedTargetPlatforms": [
-					"Win64"
-				],
-				"SupportedPrograms": [
-					"LiveLinkHub"
-				],
-				"Modules": [
-					{
-						"Name": "XInputDevice",
-						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"PlatformAllowList": [
-							"Win64"
-						],
-						"ProgramAllowList": [
-							"LiveLinkHub"
-						]
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin",
 			"Descriptor": 
 			{
@@ -4392,6 +4556,44 @@
 						"LoadingPhase": "PreLoadingScreen",
 						"PlatformAllowList": [
 							"Win64"
+						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/Windows/XInputDevice/XInputDevice.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "XInput Device",
+				"Description": "XInput is a Game Controller API for Windows.",
+				"Category": "Input Devices",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"SupportedTargetPlatforms": [
+					"Win64"
+				],
+				"SupportedPrograms": [
+					"LiveLinkHub"
+				],
+				"Modules": [
+					{
+						"Name": "XInputDevice",
+						"Type": "Runtime",
+						"LoadingPhase": "Default",
+						"PlatformAllowList": [
+							"Win64"
+						],
+						"ProgramAllowList": [
+							"LiveLinkHub"
 						]
 					}
 				]

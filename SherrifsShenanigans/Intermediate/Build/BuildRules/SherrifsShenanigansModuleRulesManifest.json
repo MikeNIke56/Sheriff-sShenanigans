@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Momo\\Desktop\\SherShenRepo3\\Sheriff-sShenanigans\\SherrifsShenanigans\\Intermediate\\Source\\SherrifsShenanigans.Build.cs",
+		"C:\\Users\\Momo\\Desktop\\SherShenRepo3\\Sheriff-sShenanigans\\SherrifsShenanigans\\Intermediate\\Source\\SherrifsShenanigans.Target.cs",
+		"C:\\Users\\Momo\\Desktop\\SherShenRepo3\\Sheriff-sShenanigans\\SherrifsShenanigans\\Intermediate\\Source\\SherrifsShenanigansClient.Target.cs",
+		"C:\\Users\\Momo\\Desktop\\SherShenRepo3\\Sheriff-sShenanigans\\SherrifsShenanigans\\Intermediate\\Source\\SherrifsShenanigansEditor.Target.cs",
+		"C:\\Users\\Momo\\Desktop\\SherShenRepo3\\Sheriff-sShenanigans\\SherrifsShenanigans\\Intermediate\\Source\\SherrifsShenanigansServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

@@ -169,7 +169,6 @@
 		{
 			"ShaderMapHash": "71EE221383E541D5DBD3F787E7942882841B729A",
 			"Assets": [
-				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Dragon",
 				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Painted1",
 				"/Game/MegaMaskPack/Materials/Ja_Mask/M_JaMask_Golden",
 				"/Game/MegaMaskPack/Materials/Ja_Mask/M_JaMask_Painted2"
@@ -250,7 +249,6 @@
 				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_Brown",
 				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_Gray",
 				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_Orange",
-				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_White",
 				"/Game/MegaMaskPack/Materials/Clown_Mask/M_ClownMask_Painted1",
 				"/Game/MegaMaskPack/Materials/Clown_Mask/M_ClownMask_Painted2",
 				"/Game/MegaMaskPack/Materials/Clown_Mask/M_ClownMask_Painted3",
@@ -393,6 +391,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "72BCCE3986178A6C8D61FE3B4303FC26ECD07FA4",
+			"Assets": [
+				"/Game/HatPack/Assets/MasterMaterials/M_HatPack_TextureParent"
+			]
+		},
+		{
 			"ShaderMapHash": "55A97C3ACE263DD71525BE9C1F832466B11941CA",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
@@ -471,6 +475,12 @@
 			"ShaderMapHash": "0EB31E49FA5B400DC32EF7A11A51139C3864BFDA",
 			"Assets": [
 				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Blood_C"
+			]
+		},
+		{
+			"ShaderMapHash": "706E52495EFA4A1BDD9CDEF4A66411764FE740C9",
+			"Assets": [
+				"/Engine/VREditor/LaserPointer/LaserPointerMaterial"
 			]
 		},
 		{
@@ -619,12 +629,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1F7EFA5A6C71791DE056382AE972D47C167770B9",
-			"Assets": [
-				"/Game/HatPack/Assets/MasterMaterials/M_HatPack_TextureParent"
-			]
-		},
-		{
 			"ShaderMapHash": "F63C605C8423AAB9E465E86BF644EEAC4C9ED274",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
@@ -756,8 +760,6 @@
 				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Painted2",
 				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Painted3",
 				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Skull",
-				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Black",
-				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Black_Mustache",
 				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Old",
 				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Old_Mustache",
 				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Party",
@@ -772,7 +774,6 @@
 				"/Game/MegaMaskPack/Materials/O_Mask/M_OMask_Oni",
 				"/Game/MegaMaskPack/Materials/O_Mask/M_OMask_Science",
 				"/Game/MegaMaskPack/Materials/O_Mask/M_OMask_XWhite",
-				"/Game/MegaMaskPack/Materials/Poly_Mask/M_PolyMask_Gold",
 				"/Game/MegaMaskPack/Materials/Poly_Mask/M_PolyMask_IDK",
 				"/Game/MegaMaskPack/Materials/Poly_Mask/M_PolyMask_Matte",
 				"/Game/MegaMaskPack/Materials/Tiki_Mask/M_TikiMask_BoneTribe",
@@ -1246,6 +1247,14 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0211A1C98EEE15662BB5CB5547760A64C792FB2A",
+			"Assets": [
+				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Black",
+				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Black_Mustache",
+				"/Game/MegaMaskPack/Materials/Poly_Mask/M_PolyMask_Gold"
+			]
+		},
+		{
 			"ShaderMapHash": "258AF8CA91491ECE5463CEF90E94E67729396200",
 			"Assets": [
 				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Dirt_B",
@@ -1257,6 +1266,12 @@
 			"ShaderMapHash": "4A0733CB266EF86EC7C44D8A9F48B0CC7159D927",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "D689CDCD6BA1BD46CB5B664709F5E8C7A7B71AE2",
+			"Assets": [
+				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_White"
 			]
 		},
 		{
@@ -1342,6 +1357,12 @@
 			"ShaderMapHash": "2B87A4DF10A50D3DD6F74FED4558D684FCCC3181",
 			"Assets": [
 				"/Game/Polygon-WildWest/Materials/M_MainTexture"
+			]
+		},
+		{
+			"ShaderMapHash": "4E8463E34CE195A5318D35CB60358E4F3B9A31B2",
+			"Assets": [
+				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Dragon"
 			]
 		},
 		{
@@ -1481,6 +1502,12 @@
 			"ShaderMapHash": "6313C3F96064F75969875A9B3A19FE165CE414EB",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "EE894EFDC250878B850841DEF13DA6E15EB43E77",
+			"Assets": [
+				"/Game/Assets/UI/PlayerPreviewMat"
 			]
 		},
 		{

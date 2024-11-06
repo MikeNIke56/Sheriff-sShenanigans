@@ -98,12 +98,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A51BE711196DC26C7885196D2A3C202AD66CAC91",
-			"Assets": [
-				"/Game/HatPack/Assets/MasterMaterials/M_HatPack_TextureParent"
-			]
-		},
-		{
 			"ShaderMapHash": "60C9F91391086F0A3A510BCF72B2A56930E2F61F",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
@@ -438,6 +432,14 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3E839D511DC5D32B8DCA14336E3EB618E796781B",
+			"Assets": [
+				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Black",
+				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Black_Mustache",
+				"/Game/MegaMaskPack/Materials/Poly_Mask/M_PolyMask_Gold"
+			]
+		},
+		{
 			"ShaderMapHash": "2FFDBF51C90C4BDE689F8DECEFD5FD53C060D586",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
@@ -741,6 +743,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3F60B28A6D223ADAF0391FCC7277754C3F66D000",
+			"Assets": [
+				"/Game/HatPack/Assets/MasterMaterials/M_HatPack_TextureParent"
+			]
+		},
+		{
 			"ShaderMapHash": "554ADD8ABB3378FCC5DB8C10E72691CF62873D49",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
@@ -838,6 +846,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3D662E9B003F7C2AC69B0FFD2C13363B953287A1",
+			"Assets": [
+				"/Engine/VREditor/LaserPointer/LaserPointerMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "8703469B7631330C3745F1788345D8F66E8F9900",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Rock"
@@ -883,6 +897,12 @@
 			"ShaderMapHash": "9A48DAA127CD06165154930E0BC540D21A4247BE",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C4B0E7A18554F86A11E9E163FA39C65142650915",
+			"Assets": [
+				"/Game/Assets/UI/PlayerPreviewMat"
 			]
 		},
 		{
@@ -968,6 +988,12 @@
 			"ShaderMapHash": "858E33AF1AC2785F4667C86F17FF034266599901",
 			"Assets": [
 				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "8B7F6AAF73FA5694AFD835CCD62161DDD7AE948E",
+			"Assets": [
+				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_White"
 			]
 		},
 		{
@@ -1068,7 +1094,6 @@
 				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_Brown",
 				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_Gray",
 				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_Orange",
-				"/Game/MegaMaskPack/Materials/Cat_Mask/M_CatMask_White",
 				"/Game/MegaMaskPack/Materials/Clown_Mask/M_ClownMask_Painted1",
 				"/Game/MegaMaskPack/Materials/Clown_Mask/M_ClownMask_Painted2",
 				"/Game/MegaMaskPack/Materials/Clown_Mask/M_ClownMask_Painted3",
@@ -1384,10 +1409,15 @@
 		{
 			"ShaderMapHash": "81FA6CEBBB5491A001285E08346E9DAC8EF46DF8",
 			"Assets": [
-				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Dragon",
 				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Painted1",
 				"/Game/MegaMaskPack/Materials/Ja_Mask/M_JaMask_Golden",
 				"/Game/MegaMaskPack/Materials/Ja_Mask/M_JaMask_Painted2"
+			]
+		},
+		{
+			"ShaderMapHash": "9ECC3CEC9A5CD326DA98ED74AF7EE147CA3F996E",
+			"Assets": [
+				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Dragon"
 			]
 		},
 		{
@@ -1479,8 +1509,6 @@
 				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Painted2",
 				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Painted3",
 				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Skull",
-				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Black",
-				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Black_Mustache",
 				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Old",
 				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Old_Mustache",
 				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Party",
@@ -1495,7 +1523,6 @@
 				"/Game/MegaMaskPack/Materials/O_Mask/M_OMask_Oni",
 				"/Game/MegaMaskPack/Materials/O_Mask/M_OMask_Science",
 				"/Game/MegaMaskPack/Materials/O_Mask/M_OMask_XWhite",
-				"/Game/MegaMaskPack/Materials/Poly_Mask/M_PolyMask_Gold",
 				"/Game/MegaMaskPack/Materials/Poly_Mask/M_PolyMask_IDK",
 				"/Game/MegaMaskPack/Materials/Poly_Mask/M_PolyMask_Matte",
 				"/Game/MegaMaskPack/Materials/Tiki_Mask/M_TikiMask_BoneTribe",
