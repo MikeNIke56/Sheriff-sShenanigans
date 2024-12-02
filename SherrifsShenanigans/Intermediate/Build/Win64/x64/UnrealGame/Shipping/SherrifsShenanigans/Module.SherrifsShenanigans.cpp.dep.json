@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\momo\\desktop\\shershenrepo3\\new repo\\sherrifsshenanigans\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\sherrifsshenanigans\\module.sherrifsshenanigans.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\momo\\desktop\\shershenrepo3\\new repo\\sherrifsshenanigans\\intermediate\\build\\win64\\x64\\sherrifsshenanigans\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\momo\\desktop\\shershenrepo3\\new repo\\sherrifsshenanigans\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\sherrifsshenanigans\\definitions.sherrifsshenanigans.h",
+            "c:\\users\\momo\\desktop\\shershenrepo3\\new repo\\sherrifsshenanigans\\intermediate\\source\\sherrifsshenanigans.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

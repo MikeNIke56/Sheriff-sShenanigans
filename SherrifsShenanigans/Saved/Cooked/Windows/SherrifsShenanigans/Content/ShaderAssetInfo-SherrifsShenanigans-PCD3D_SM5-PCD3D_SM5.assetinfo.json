@@ -64,9 +64,52 @@
 			]
 		},
 		{
+			"ShaderMapHash": "BD147605C829C57D7E2F264E8834047A4545FB7A",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Lightning"
+			]
+		},
+		{
 			"ShaderMapHash": "82D6790591B6417BC0C5E08657CD9985A7339210",
 			"Assets": [
 				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glow_A"
+			]
+		},
+		{
+			"ShaderMapHash": "E2BA8805958410DDD5ABE86A113EC4B1E5E318DE",
+			"Assets": [
+				"/Game/AnimeAuraVFX/NS_AnimeAura",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_DarkPurple",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_Negate",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_Noise_Plus",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_PixelNoise",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_Rainbow",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_VerticalNoise",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_VerticalWave",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Jaggy_Blue",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Jaggy_Green",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Jaggy_Red",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Jaggy_Yellow",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Hard_Blue",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Hard_Green",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Hard_Red",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Hard_Yellow",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Outline_Blue",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Outline_Green",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Outline_Red",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Outline_Yellow",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Soft_Blue",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Soft_Green",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Soft_Red",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Soft_Yellow",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Hard_Blue",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Hard_Green",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Hard_Red",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Hard_Yellow",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Soft_Blue",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Soft_Green",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Soft_Red",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Soft_Yellow"
 			]
 		},
 		{
@@ -85,6 +128,12 @@
 			"ShaderMapHash": "AEDF740AC033651E8DA6EC59B8EB82072DDD3B4C",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "41F0CB0AD4E46036ECAE94889B2D98B48F0B8E02",
+			"Assets": [
+				"/Game/AnimeAuraVFX/NS_AuraForStaticMesh"
 			]
 		},
 		{
@@ -175,6 +224,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "33515113189F33287B8CAD406043AE9C453159C6",
+			"Assets": [
+				"/Game/AnimeAuraVFX/Materials/M_AuraEffectJaggy"
+			]
+		},
+		{
 			"ShaderMapHash": "D671531373CE50DB7CDCF3ACACF5A5CB39710656",
 			"Assets": [
 				"/Game/MilitaryWeapSilver/FX/Materials/M_GlowSphere_01"
@@ -193,6 +248,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "922DE617E5F097D9A4A37CC9962F6EA4BA08A3A2",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/SkeletalMeshExample/Character/Materials/M_Male_Body"
+			]
+		},
+		{
 			"ShaderMapHash": "973478181926EC4EBAA040D01D2C6755A5089B76",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Basic_Wall"
@@ -202,6 +263,12 @@
 			"ShaderMapHash": "5AF9EF18BF6C447F9A2B392E7BB8573C4F6EFEC3",
 			"Assets": [
 				"/Game/MilitaryWeapSilver/FX/Materials/M_RockMesh_01"
+			]
+		},
+		{
+			"ShaderMapHash": "C058B81959B08ED56DDED60D2435199039669426",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_1"
 			]
 		},
 		{
@@ -240,6 +307,12 @@
 			"ShaderMapHash": "8F7F521D148B2C74EDCE8FE65F5939CC31D1DAC1",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "0015BC1D96787DC9242D65E5E68700EF7DAEDC89",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Smoke_1"
 			]
 		},
 		{
@@ -303,6 +376,7 @@
 		{
 			"ShaderMapHash": "7F7F8C2558EC12A29C8B6666646F39D1A753B5F0",
 			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/DefaultTextMaterialTranslucentUnlit",
 				"/Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Materials/DefaultTextMaterialTranslucentUnlit"
 			]
 		},
@@ -316,6 +390,12 @@
 			"ShaderMapHash": "7C6D492817E725D9490C1B8804BFB3E89059DAB6",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "54F5BB294C2CCB0239639381D1443E25EFA4324F",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/SkeletalMeshExample/Character/Materials/M_UE4Man_ChestLogo"
 			]
 		},
 		{
@@ -337,6 +417,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5F2B7430DE5ABCB27BDEC1AC6ADE743D92F878AC",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWallPattern_NoText"
+			]
+		},
+		{
 			"ShaderMapHash": "4C35123196E805A1BCD6985AFF6982DEB9BF9F18",
 			"Assets": [
 				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Flies"
@@ -355,9 +441,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1BCF35322BD24C2AB3F05B21BC371DF028811C17",
+			"Assets": [
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_Bubble"
+			]
+		},
+		{
 			"ShaderMapHash": "BC34CA333E2A06EC4ED343674C56DB5301676F55",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "10989C363C0265F881797134279AE9F3E925357C",
+			"Assets": [
+				"/Game/Assets/VFX/golden"
 			]
 		},
 		{
@@ -421,9 +519,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "84E3A23D06F26EFCAFB1B982DD292802865458F5",
+			"Assets": [
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_Bubble"
+			]
+		},
+		{
 			"ShaderMapHash": "5524543EA07FD2143A89A6D159942C8319FCE9CD",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "78CBBD3EA8BB1D6F6EB3C2669759E78388221FA6",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_4"
 			]
 		},
 		{
@@ -442,6 +552,12 @@
 			"ShaderMapHash": "982CF341BF7A6448DA431476A63B2CB9325079CC",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Concrete_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "3A630A42FECD045B2B160331BF4B85C27ABA40D4",
+			"Assets": [
+				"/Game/Assets/VFX/AirDodge"
 			]
 		},
 		{
@@ -508,6 +624,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "47709C4D709F6478A47D103E80051702D815E3DB",
+			"Assets": [
+				"/Game/Assets/UI_Assets/blood-stain-horror-texture-free-download-25_png_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "3D42D44E308FD32D88B3A803ECCBFD8B94133853",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
@@ -559,6 +681,12 @@
 			"ShaderMapHash": "AFA60555466AC2D3C58DA51288B3098FCD0818BE",
 			"Assets": [
 				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "4CCA5955EB7E6CA219062E92E868FC6413E944F1",
+			"Assets": [
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_Noise_Plus"
 			]
 		},
 		{
@@ -685,6 +813,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "60DF4A65B821E7FAAE8EEA02C79AAF623F87636D",
+			"Assets": [
+				"/Game/AnimeAuraVFX/Materials/M_AuraEffectBubble"
+			]
+		},
+		{
 			"ShaderMapHash": "EC078266D958291079F3D359779450D7F6D651C3",
 			"Assets": [
 				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Rock_B",
@@ -701,6 +835,12 @@
 			"ShaderMapHash": "1DCED2673E63A690855B3E3B1BED24A9D9846D0B",
 			"Assets": [
 				"/Game/MilitaryWeapSilver/FX/Materials/M_Debris_Tileable_01"
+			]
+		},
+		{
+			"ShaderMapHash": "AB221F6EFB6A82E90404FAE1F47CEE60312854E2",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -753,10 +893,6 @@
 				"/Game/MegaMaskPack/Materials/DOTD_Mask/M_DOTDMask_Hazard",
 				"/Game/MegaMaskPack/Materials/DOTD_Mask/M_DOTDMask_Painted1",
 				"/Game/MegaMaskPack/Materials/DOTD_Mask/M_DOTDMask_Painted2",
-				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Painted1",
-				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Painted2",
-				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Painted3",
-				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Wooden",
 				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Painted2",
 				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Painted3",
 				"/Game/MegaMaskPack/Materials/Full_Mask/M_FullMask_Skull",
@@ -782,6 +918,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5AC910776A0D89619AAA58C5BA2CBC8739E28F78",
+			"Assets": [
+				"/Game/Assets/VFX/firerateBooster"
+			]
+		},
+		{
 			"ShaderMapHash": "04F70078834F0586CECF0549C570A8D55B4C73CC",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Water_Lake"
@@ -791,6 +933,18 @@
 			"ShaderMapHash": "EFAAE378AAF28EB81A17E59337E1DB4BC7B672F0",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "2FCED97C88D1C0C9F818334EF3EB30DA2D4BFBF4",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoRoomTiles"
+			]
+		},
+		{
+			"ShaderMapHash": "94BE377E319FE9ADD2AFC12A2EBC84832E25C1F4",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWallPattern_Inst_Mirrored"
 			]
 		},
 		{
@@ -818,6 +972,23 @@
 			]
 		},
 		{
+			"ShaderMapHash": "EF573382D3A0E91A76E8BB0B93CC4D563E990FB9",
+			"Assets": [
+				"/Game/AnimeAuraVFX/Materials/M_AuraEffect"
+			]
+		},
+		{
+			"ShaderMapHash": "8089F7820E074FF2D04B3A5C365197487844A29E",
+			"Assets": [
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_Massive_DarkPurple",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_Massive_Rainbow",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Massive_Blue",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Massive_Green",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Massive_Red",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Massive_Yellow"
+			]
+		},
+		{
 			"ShaderMapHash": "0CAC4C83B841C9B400F0FC4B1DC3F1C0EEF11181",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
@@ -830,6 +1001,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AA45DA84367F469AC8456DC4EEDBB68340ED781C",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Star"
+			]
+		},
+		{
 			"ShaderMapHash": "1CDA2085B2204AFD58773BC821BF1CE914A5B1F8",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
@@ -839,6 +1016,12 @@
 			"ShaderMapHash": "1649C0853736D8B6A3EE639415A26B6DE8B2B159",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "1DA4C7861826CF53ED5EB5C5A70E7B102A9AE90D",
+			"Assets": [
+				"/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat"
 			]
 		},
 		{
@@ -961,6 +1144,7 @@
 		{
 			"ShaderMapHash": "FDA0FB95397E39D20B27235509A4760568F4F9E9",
 			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWall",
 				"/Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Materials/M_DemoWall"
 			]
 		},
@@ -1042,6 +1226,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C7046C9DD2949367F000E55D282BAF646DED2B03",
+			"Assets": [
+				"/Game/AnimeAuraVFX/NS_AuraStandalone"
+			]
+		},
+		{
 			"ShaderMapHash": "F3FB609ECA543AF843927ECE8177771D824E7C83",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
@@ -1057,6 +1247,12 @@
 			"ShaderMapHash": "A4A73A9F8747473B5ADB1D2BEAEC1C70FB38844A",
 			"Assets": [
 				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FC1FA99F3799A13032ED864EE80CAFB57304D788",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Butterfly"
 			]
 		},
 		{
@@ -1079,9 +1275,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4E30BAA0E565ACAC7FA9ED0C2B2CE8D4C8461BB9",
+			"Assets": [
+				"/Game/AnimeAuraVFX/Materials/M_AuraEffectVerticalNoise"
+			]
+		},
+		{
 			"ShaderMapHash": "0A4EBDA0E13719316A1F7D143528C754E7ACF339",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "0254A9A137372EF37A2B47B3D6FCEB8E3B4A3FC1",
+			"Assets": [
+				"/Game/AnimeAuraVFX/Materials/M_AuraEffectNoise"
+			]
+		},
+		{
+			"ShaderMapHash": "C9BFD7A1CF9C7C930813F40AA32ACAE6E954610B",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/SkeletalMeshExample/Character/Materials/M_Male_Body_9"
 			]
 		},
 		{
@@ -1115,6 +1329,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5F1416AE03CEC194147293EB237F5C5A4C681A4C",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_5"
+			]
+		},
+		{
 			"ShaderMapHash": "98946DAF1B25F1335EB7A5E194B0FE6AFAA3E1F5",
 			"Assets": [
 				"/Game/MilitaryWeapSilver/FX/Materials/M_Explosion_8x8_A_01"
@@ -1124,6 +1344,12 @@
 			"ShaderMapHash": "56DB03B0286B8B94CE182940DA26422ADFC83705",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_StatueGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "522910B09C90AC4C5E0AAD867C42CFBD97B498A8",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_6"
 			]
 		},
 		{
@@ -1157,6 +1383,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C540ACB3C84D3D12C7744458B845F6886A52555F",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_8",
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_9"
+			]
+		},
+		{
 			"ShaderMapHash": "28C719B46BFB8BD1B882064753FA97316FE4E1AE",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
@@ -1181,6 +1414,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "54FA3FBA5EC2454BA84B23D061A8FFD3F84AFE8E",
+			"Assets": [
+				"/Game/AnimeAuraVFX/Materials/M_AuraEffectPixelNoise"
+			]
+		},
+		{
 			"ShaderMapHash": "7AC748BA56A31D1F81BBE5166B608024EF2255D9",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
@@ -1193,6 +1432,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5D2308BB9A025B2652B3445B0EEFF156E163DBE6",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_LightTube"
+			]
+		},
+		{
 			"ShaderMapHash": "1858E9BC8D9C2641E3E679924B4F6CE2365BC7F2",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
@@ -1202,6 +1447,12 @@
 			"ShaderMapHash": "0B6EC5BD11B2520822F12902F8F0FFA65F04778C",
 			"Assets": [
 				"/Game/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "23A8B0BF29E4172BC5CE7805066FE568DECB0886",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWallPattern"
 			]
 		},
 		{
@@ -1241,6 +1492,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7EE201C8BFBE3E03EC8D832EF566CA6A9F6FA633",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Ribbon"
+			]
+		},
+		{
 			"ShaderMapHash": "6CF78EC87ED91AF413D525CBC7C7DDF7725F6443",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
@@ -1249,9 +1506,19 @@
 		{
 			"ShaderMapHash": "0211A1C98EEE15662BB5CB5547760A64C792FB2A",
 			"Assets": [
+				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Painted1",
+				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Painted2",
+				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Painted3",
+				"/Game/MegaMaskPack/Materials/Es_Mask/M_EsMask_Wooden",
 				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Black",
 				"/Game/MegaMaskPack/Materials/Goggle_Mask/M_GoggleMask_Black_Mustache",
 				"/Game/MegaMaskPack/Materials/Poly_Mask/M_PolyMask_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "7FE8CAC9FBD2811D1EA97BF2856C7EFD4C76FCA6",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_4"
 			]
 		},
 		{
@@ -1306,6 +1573,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5E26A2D538514AEB51F2856A9CDCF54FA14D6D32",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Shadow"
+			]
+		},
+		{
 			"ShaderMapHash": "9306EDD589EEC5368DA90BFC34E89575A1CD9E2B",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -1321,6 +1594,18 @@
 			"ShaderMapHash": "17AA53D7919E5E492FB8130D8ED8BE95D48AFCE5",
 			"Assets": [
 				"/Game/Dodge_and_Evade_Anims/Demo/Floors_and_Walls/Materials/m_Props"
+			]
+		},
+		{
+			"ShaderMapHash": "E98BD8D7D0730ED6A2AE729CD24B1B446E928247",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_6"
+			]
+		},
+		{
+			"ShaderMapHash": "37A138D9AA8AD051323F574BF284D2EB2DC81D6F",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Smoke"
 			]
 		},
 		{
@@ -1342,9 +1627,58 @@
 			]
 		},
 		{
+			"ShaderMapHash": "753D85DC2CAD9EF198E91E5D27F491223D3474FD",
+			"Assets": [
+				"/Game/AnimeAuraVFX/NS_AuraStandalone"
+			]
+		},
+		{
 			"ShaderMapHash": "150070DD4EA6C04D8BE3C2CA1A3B2E4E41068B2D",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "1755C7DD7C08892BA06C0FE015DC72C2D0DABD2B",
+			"Assets": [
+				"/Game/AnimeAuraVFX/NS_AnimeAura",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_DarkPurple",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_Massive_DarkPurple",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_Massive_Rainbow",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_Negate",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_Noise_Plus",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_PixelNoise",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_Rainbow",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_VerticalNoise",
+				"/Game/AnimeAuraVFX/Presets/Misc/NS_AnimeAura_VerticalWave",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Jaggy_Blue",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Jaggy_Green",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Jaggy_Red",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Jaggy_Yellow",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Massive_Blue",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Massive_Green",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Massive_Red",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Jaggy/NS_AnimeAura_Massive_Yellow",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Hard_Blue",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Hard_Green",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Hard_Red",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Hard_Yellow",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Outline_Blue",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Outline_Green",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Outline_Red",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Outline_Yellow",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Soft_Blue",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Soft_Green",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Soft_Red",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Noise/NS_AnimeAura_Noise_Soft_Yellow",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Hard_Blue",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Hard_Green",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Hard_Red",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Hard_Yellow",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Soft_Blue",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Soft_Green",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Soft_Red",
+				"/Game/AnimeAuraVFX/Presets/TypicalVariation/Normal/NS_AnimeAura_Soft_Yellow"
 			]
 		},
 		{
@@ -1357,6 +1691,30 @@
 			"ShaderMapHash": "2B87A4DF10A50D3DD6F74FED4558D684FCCC3181",
 			"Assets": [
 				"/Game/Polygon-WildWest/Materials/M_MainTexture"
+			]
+		},
+		{
+			"ShaderMapHash": "010B38E135482F7302084ECEA391E316B49C3139",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Trail_9"
+			]
+		},
+		{
+			"ShaderMapHash": "0DD393E28E0CB11DA3EE74E39AF77B0407439E68",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_RingMesh"
+			]
+		},
+		{
+			"ShaderMapHash": "3CBA9CE27632B601312C0C9F728FE0E9D18CD046",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Ribbon1"
+			]
+		},
+		{
+			"ShaderMapHash": "935F26E32B75B68188E949933105EECC34637E50",
+			"Assets": [
+				"/Game/AnimeAuraVFX/NS_AuraForStaticMesh"
 			]
 		},
 		{
@@ -1394,6 +1752,13 @@
 			"Assets": [
 				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_Ground_B",
 				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_Ground_C"
+			]
+		},
+		{
+			"ShaderMapHash": "1CF873E8AD20780267A1F015F26A1480C7F3CAA5",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_Glass",
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_Glass_Inst"
 			]
 		},
 		{
@@ -1451,6 +1816,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2C3DB8F03A06C594EAFE97BD22AC2B94328C7F8C",
+			"Assets": [
+				"/Game/AnimeAuraVFX/Materials/M_AuraEffectNegate"
+			]
+		},
+		{
+			"ShaderMapHash": "EDF6BEF0A97A629CB7260EC63EEEF140FF2F6000",
+			"Assets": [
+				"/Game/AnimeAuraVFX/Materials/M_AuraEffectVerticalWave"
+			]
+		},
+		{
 			"ShaderMapHash": "D82B35F17CB34BA2346F93F60BB6B23F522109EF",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
@@ -1502,6 +1879,12 @@
 			"ShaderMapHash": "6313C3F96064F75969875A9B3A19FE165CE414EB",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "972BCEF989B5CE1DE96BC088A4C67716A781FACC",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Glitch"
 			]
 		},
 		{
